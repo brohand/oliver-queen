@@ -1,20 +1,23 @@
 {
-  "name": "build-a-discord-bot",
+  "name": "oliver-queen",
   "version": "0.0.1",
-  "description": "This an easy-to-understand template for a Discord bot",
-  "main": "server.js",
+  "description": " Settings
+My name is Oliver Queen. For five years, I was stranded on an island with only one goal-- Survive. Now I will fulfill my fathers dying wish--
+to use the list of names he left me and bring down those who are poisoning my city. To do this, I must become someone else. I must become something else",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.16.2",
-    "discord.js": "^11.3.0"
+    "discord.js": "^11.3.2",
+    "express": "^4.16.2"
   },
   "engines": {
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/build-a-discord-bot"
+  	"type": "git",
+    "url": "git+https://github.com/brohand/oliver-queen.git"
   },
   "license": "MIT",
   "keywords": [
