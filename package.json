@@ -1,9 +1,7 @@
 {
   "name": "oliver-queen",
   "version": "0.0.1",
-  "description": " Settings
-My name is Oliver Queen. For five years, I was stranded on an island with only one goal-- Survive. Now I will fulfill my fathers dying wish--
-to use the list of names he left me and bring down those who are poisoning my city. To do this, I must become someone else. I must become something else",
+  "description": "My name is Oliver Queen. For five years, I was stranded on an island with only one goal-- Survive. Now I will fulfill my fathers dying wish--to use the list of names he left me and bring down those who are poisoning my city. To do this, I must become someone else. I must become something else",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -22,7 +20,6 @@ to use the list of names he left me and bring down those who are poisoning my ci
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
     "express"
   ]
 }
